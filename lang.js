@@ -61,7 +61,8 @@ btn_cantando_beatles: "Orgullo Mexicano",
 btn_video_historia: "ME PRESENTO",
 btn_ver_detalles: "VER DETALLES",
 lbl_biografia: "Biografía",
-lbl_conoceme: "CONOCEME"
+lbl_conoceme: "CONOCEME",
+btn_regresar_menu: "REGRESAR AL MENÚ"
     },
     en: {
         meta_title: "KENIA LECHUGA",
@@ -125,7 +126,8 @@ btn_cantando_beatles: "Mexican Pride",
 btn_video_historia: "INTRODUCING MYSELF",
 btn_ver_detalles: "VIEW DETAILS",
 lbl_biografia: "Biography",
-lbl_conoceme: "ABOUT ME"
+lbl_conoceme: "ABOUT ME",
+btn_regresar_menu: "BACK TO MENU"
     },
     pt: {
         meta_title: "KENIA LECHUGA",
@@ -189,7 +191,8 @@ btn_cantando_beatles: "Orgulho Mexicano",
 btn_video_historia: "ME APRESENTO",
 btn_ver_detalles: "VER DETALHES",
 lbl_biografia: "Biografia",
-lbl_conoceme: "CONHEÇA-ME"
+lbl_conoceme: "CONHEÇA-ME",
+btn_regresar_menu: "VOLTAR AO MENU"
     },
     fr: {
         meta_title: "KENIA LECHUGA",
@@ -253,7 +256,8 @@ btn_cantando_beatles: "Fierté Mexicaine",
 btn_video_historia: "JE ME PRÉSENTE",
 btn_ver_detalles: "VOIR LES DÉTAILS",
 lbl_biografia: "Biographie",
-lbl_conoceme: "À PROPOS DE MOI"
+lbl_conoceme: "À PROPOS DE MOI",
+btn_regresar_menu: "RETOURNER AU MENU"
     },
     ko: {
         meta_title: "KENIA LECHUGA",
@@ -317,7 +321,8 @@ btn_cantando_beatles: "멕시코의 자부심",
 btn_video_historia: "나를 소개합니다",
 btn_ver_detalles: "상세 보기",
 lbl_biografia: "전기",
-lbl_conoceme: "나에 대해"
+lbl_conoceme: "나에 대해",
+btn_regresar_menu: "메뉴로 돌아가기"
     },
     de: {
         meta_title: "KENIA LECHUGA",
@@ -381,7 +386,8 @@ btn_cantando_beatles: "Mexikanischer Stolz",
 btn_video_historia: "ICH STELLE MICH VOR",
 btn_ver_detalles: "DETAILS ANZEIGEN",
 lbl_biografia: "Biografie",
-lbl_conoceme: "ÜBER MICH"
+lbl_conoceme: "ÜBER MICH",
+btn_regresar_menu: "ZURÜCK ZUM MENÜ"
     },
     ja: {
         meta_title: "KENIA LECHUGA",
@@ -445,7 +451,8 @@ btn_cantando_beatles: "メキシコの誇り",
 btn_video_historia: "自己紹介",
 btn_ver_detalles: "詳細を見る",
 lbl_biografia: "伝記",
-lbl_conoceme: "私について"
+lbl_conoceme: "私について",
+btn_regresar_menu: "メニューに戻る"
     },
     zh: {
         meta_title: "KENIA LECHUGA",
@@ -509,7 +516,8 @@ btn_cantando_beatles: "墨西哥的骄傲",
 btn_video_historia: "自我介绍",
 btn_ver_detalles: "查看详情",
 lbl_biografia: "传记",
-lbl_conoceme: "关于我"
+lbl_conoceme: "关于我",
+btn_regresar_menu: "返回菜单"
     }
 };
 
